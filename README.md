@@ -8,7 +8,13 @@
 ![STM32](https://img.shields.io/badge/STM32F10x-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil_MDK-1F6FEB?style=flat-square)
 
-![小车组装侧视图](05小车结构组装资料/组装好的侧视图.png)
+![STM32 智能小车联调实物](docs/images/smart-car-prototype.jpg)
+
+## 实物效果
+
+| 整车联调 | 结构侧视 |
+| --- | --- |
+| ![智能小车联调实物](docs/images/smart-car-prototype.jpg) | ![小车组装侧视图](05小车结构组装资料/组装好的侧视图.png) |
 
 ## 项目说明与来源
 
